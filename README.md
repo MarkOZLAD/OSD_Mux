@@ -1,0 +1,1 @@
+Just a quick repository for some of the calculators/tables/diagrams I've created over the years to help people perform RGB mods on CRT Televisions whilst maintaining the on screen display.  The so called "OSD Mux" method.
